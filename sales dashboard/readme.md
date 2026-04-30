@@ -1,26 +1,23 @@
----
-# 📊 Sales Dashboard
+readme: |
+  # 📊 Sales Dashboard
 
-## Overview
+  ## Overview
 
-This project presents an interactive **Sales Dashboard** designed to provide insights into sales performance, profitability, and regional trends. The dashboard helps stakeholders quickly analyze key business metrics and make data-driven decisions.
+  This project presents an interactive **Sales Dashboard** designed to provide insights into sales performance, profitability, and regional trends.
 
-## 🚀 Key Features
+  ## 🚀 Key Features
 
-* **KPI Highlights**
+  * **KPI Highlights**
+    * Average Profit: **28.66**
+    * Total Quantity Sold: **38K**
+    * Total Sales: **2.30M**
+    * Discount Distribution by Region (Central, East, South, West)
 
-  * Average Profit: 28.66
-  * Total Quantity Sold: 38K
-  * Total Sales: 2.30M
-  * Discount Distribution by Region (Central, East, South, West)
-
-* **Sales & Profit Analysis**
-
-  * Comparison of **Average Profit** and **Total Sales** across customer segments:
-
-    * Home Office
-    * Corporate
-    * Consumer
+  * **Sales & Profit Analysis**
+    * Comparison of **Average Profit** and **Total Sales** across customer segments:
+      * Home Office
+      * Corporate
+      * Consumer
 
 * **Regional Insights**
 
