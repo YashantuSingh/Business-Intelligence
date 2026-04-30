@@ -1,5 +1,4 @@
 ---
-
 # 📊 Sales Dashboard
 
 ## Overview
@@ -10,9 +9,9 @@ This project presents an interactive **Sales Dashboard** designed to provide ins
 
 * **KPI Highlights**
 
-  * Average Profit: **28.66**
-  * Total Quantity Sold: **38K**
-  * Total Sales: **2.30M**
+  * Average Profit: 28.66
+  * Total Quantity Sold: 38K
+  * Total Sales: 2.30M
   * Discount Distribution by Region (Central, East, South, West)
 
 * **Sales & Profit Analysis**
