@@ -35,7 +35,8 @@ This repository contains a Power BI dashboard designed to visualize and analyze 
 
 ## 📊 Sample Visualization
 
-![Sales Dashboard](./Sales%20dashboard.png)
+<img width="618" height="341" alt="Sales dashboard" src="https://github.com/user-attachments/assets/2e8a875d-30be-4f7f-9381-1cd8aa17f96a" />
+
 
 ---
 
